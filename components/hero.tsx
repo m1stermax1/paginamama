@@ -19,7 +19,7 @@ export function Hero() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-8 animate-in fade-in-0 slide-in-from-bottom-4 duration-1000">
             <h1 className="text-5xl md:text-7xl font-bold text-balance mb-6">
-              <span className="text-foreground">María</span> <span className="text-accent">Rodríguez</span>
+              <span className="text-foreground">Alejandra</span> <span className="text-accent">Gayoso</span>
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground font-light mb-2">Corredora Inmobiliaria</p>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto text-pretty">

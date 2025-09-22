@@ -26,9 +26,9 @@ export function Header({ isDarkMode, toggleDarkMode }: HeaderProps) {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-accent rounded-full flex items-center justify-center">
-              <span className="text-accent-foreground font-bold text-sm">MR</span>
+              <span className="text-accent-foreground font-bold text-sm">AL</span>
             </div>
-            <span className="font-bold text-xl text-foreground">María Rodríguez</span>
+            <span className="font-bold text-xl text-foreground">Alejandra Gayoso</span>
           </div>
 
           {/* Desktop Navigation */}
